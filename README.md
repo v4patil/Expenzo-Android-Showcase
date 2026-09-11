@@ -15,13 +15,11 @@ Expenzo is a native Android expense tracker that helps people log spending, cate
 
 | Home / Dashboard | Add Expense | Reports |
 |:---:|:---:|:---:|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![Add Expense](docs/screenshots/expense_form.png) | ![Report](docs/screenshots/report.png) |
+| <img src="Dashboard.jpg" height="300"> | <img src="AddExpense.jpg" height="300"> | <img src="Report.jpg" height="300"> |
 
 | Expense List | Categories | Settings |
 |:---:|:---:|:---:|
-| ![Expense List](docs/screenshots/expense_list.png) | ![Categories](docs/screenshots/categories.png) | ![Settings](docs/screenshots/settings.png) |
-
-*Screenshots to be added — see the recommendation list below.*
+| <img src="ExpenseList.jpg" height="300"> | <img src="CategoryList.jpg" height="300"> | <img src="Setting.jpg" height="300"> |
 
 ---
 
